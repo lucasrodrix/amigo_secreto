@@ -1,0 +1,12 @@
+.logo {
+    max-width: 100%;
+    width: 50%;
+    height: auto;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+.btn-home {
+    margin-top: 20px;
+}
